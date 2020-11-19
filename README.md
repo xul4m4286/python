@@ -1,1 +1,7 @@
-ajax方法構成的網站進行爬蟲：對Medium.com網站進行文章標題爬蟲 11/9版本
+環境
+編輯器：Anaconda Jupyter Notebook
+Python版本：Python 3.8.2
+
+爬蟲專案作品
+11/9 更新 PTT 文章標題爬蟲
+11/9 更新 Medium ajax編譯網站 文章標題爬蟲
