@@ -1,6 +1,6 @@
 import random
 trycount=0
-j=random.randint(1,10)
+j=random.randint(1,11)
 print(j)
 print("可以猜10次")
 while trycount<10:
