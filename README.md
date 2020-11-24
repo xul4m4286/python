@@ -23,6 +23,8 @@ Python版本：Python 3.8.2
 11/23 新增 MoneyDJ理財網的文章人氣數據爬蟲
 
 
+11/24 新增 使用selenium爬取google搜尋結果
+
 code練習
 
 
