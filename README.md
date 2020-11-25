@@ -25,6 +25,9 @@ Python版本：Python 3.8.2
 
 11/24 新增 使用selenium爬取google搜尋結果
 
+
+11/25 新增 漫畫爬蟲抓取圖檔
+
 code練習
 
 
